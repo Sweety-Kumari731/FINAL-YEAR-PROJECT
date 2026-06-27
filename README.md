@@ -23,7 +23,8 @@ The system captures real-time video feed from the webcam, detects faces using Ha
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/umaralam01/FINAL-YEAR-PROJECT.git
+   git clone https://github.com/Sweety-Kumari731/FINAL-YEAR-PROJECT.git
+   
    ```
 
 2. Install dependencies:
